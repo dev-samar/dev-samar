@@ -1,8 +1,8 @@
 # Samar Naqvi
 ### Solutions Architect | Conversational AI Gateways & Integration Middleware
 
-https://g.dev/samarnaqvi
-https://github.com/dev-samar/aboutMe/blob/main/skillsRegistry.md
+* https://g.dev/samarnaqvi
+* https://github.com/dev-samar/aboutMe/blob/main/skillsRegistry.md
 
 
 ---
