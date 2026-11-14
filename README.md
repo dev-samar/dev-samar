@@ -43,6 +43,8 @@ For engineering leaders, CTOs, and technical interviewers:
 
 * 👉 **[Enterprise Architecture & Skills Registry (v2.0.0)](https://github.com/dev-samar/aboutMe/blob/main/skillsRegistry.md)**  
   *Defines my technical delivery contracts across enterprise conversational AI, IVR, and middleware orchestration . Covers PCI-isolated DTMF payment bots, multi-tier agent escalations, conversational callback playbooks, normalized healthcare prior authorization DTOs, and automated API discovery workbenches .*
+* 👉 **[Production Architecture Case Studies](https://github.com/dev-samar/aboutMe/tree/main/caseStudies)**  
+  *Detailed end-to-end design teardowns and architectural specifications across enterprise voice and contact center platforms. Features deep dives on **PCI-isolated payment bot architectures** (`paymentBot.md`), **replacing rigid 3-slot IVR menus with LLM playbook-driven callback negotiations** (`Replacing Rigid 3-Slot IVR Menus...`), and **context-aware dynamic agent handoff orchestration** (`Context-Aware Enterprise Agent Handoff Orchestrator.md`).*
 
 ---
 
