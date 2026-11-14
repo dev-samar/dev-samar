@@ -2,6 +2,7 @@
 ### Solutions Architect | Conversational AI Gateways & Integration Middleware
 
 * https://g.dev/samarnaqvi
+* https://github.com/dev-samar/aboutMe
 * https://github.com/dev-samar/aboutMe/blob/main/skillsRegistry.md
 
 
