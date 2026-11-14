@@ -26,10 +26,10 @@ Independent Solutions Architect specializing in the design, validation, and deli
 
 ### 📑 Featured Architectural Assets & Repositories
 
+
 | Repository / Asset | Description |
 | :--- | :--- |
-| **[`aboutMe / skillsRegistry.md`](https://github.com/dev-samar/aboutMe/blob/main/skillsRegistry.md)** | **Enterprise Skills Registry v2.0.0:** Centralized contract manifest mapping sub-bot handoffs, PCI/DTMF payment isolation, and batched GraphQL SLAs [3, 8-10]. |
-|
+| **[`aboutMe / skillsRegistry.md`](skillsRegistry.md)** | **Enterprise Conversational AI & Architecture Skills Registry (v2.0.0):** Defines my architectural skills, delivery capabilities, and design contracts across enterprise conversational AI, IVR, and middleware orchestration. It documents my practical implementation of PCI-isolated payment bots, intelligent agent escalation, LLM-driven scheduled callback playbooks, normalized healthcare prior authorization DTOs, batched GraphQL latency optimization (<450 ms SLA), and automated API discovery workbenches. 
 
 ---
 
