@@ -1,10 +1,9 @@
 # Samar Naqvi
 ### Solutions Architect | Conversational AI Gateways & Integration Middleware
 
-[![Website]([suspicious link removed])](https://entrynode.systems)
-[![Google Developer]([suspicious link removed])](https://g.dev/samarnaqvi)
-[![Skills Registry]([suspicious link removed])](https://github.com/dev-samar/aboutMe/blob/main/skillsRegistry.md)
-[![Email]([suspicious link removed])](mailto:samar@entrynode.systems)
+https://g.dev/samarnaqvi
+https://github.com/dev-samar/aboutMe/blob/main/skillsRegistry.md
+
 
 ---
 
@@ -30,7 +29,7 @@ Independent Solutions Architect specializing in the design, validation, and deli
 | Repository / Asset | Description |
 | :--- | :--- |
 | **[`aboutMe / skillsRegistry.md`](https://github.com/dev-samar/aboutMe/blob/main/skillsRegistry.md)** | **Enterprise Skills Registry v2.0.0:** Centralized contract manifest mapping sub-bot handoffs, PCI/DTMF payment isolation, and batched GraphQL SLAs [3, 8-10]. |
-| **[`entrynode.systems`](https://entrynode.systems)** | **Architectural Advisory & Field Notes:** Engineering deep dives on carrier p95 latency budgets, token economics, and pre-flight audits. |
+|
 
 ---
 
@@ -47,6 +46,6 @@ Independent Solutions Architect specializing in the design, validation, and deli
 
 ### 📬 Connect & Collaborate
 
-* **Advisory & Architecture Inquiries:** [samar@entrynode.systems](mailto:samar@entrynode.systems)
+
 * **Direct Email:** [dev.samarnaqvi@gmail.com](mailto:dev.samarnaqvi@gmail.com) [1]
 * **LinkedIn:** [linkedin.com/in/samar2](https://www.linkedin.com/in/samar2) [1]
